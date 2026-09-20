@@ -1,2 +1,13 @@
-# student-task-day-1
-For the **GitHub repository description**, you can use:  > **Python-based Student Marks Analysis project that calculates total, average, highest, lowest, and pass/fail results using built-in functions and loops.**  Or a shorter version:  > **Student Marks Analysis using Python, built-in functions, and loops.**
+# Student Marks Analysis
+
+## Day 1 - AI & ML Internship
+
+This project analyzes student marks using Python.
+
+### Features
+- Calculates total marks
+- Calculates average marks
+- Finds highest marks
+- Finds lowest marks
+- Calculates pass/fail results
+- Uses Python built-in functions and loopsp
